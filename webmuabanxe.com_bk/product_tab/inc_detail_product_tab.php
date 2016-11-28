@@ -1,0 +1,1 @@
+<? include("inc_detail_product_tab_$lg.php"); ?>

@@ -1,0 +1,66 @@
+/* IE */
+.shadetabs{
+padding: 3px 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+font: bold 12px Verdana;
+list-style-type: none;
+text-align: left; /*set to left, center, or right to align the menu as desired*/
+}
+
+.shadetabs li{
+display: inline;
+margin: 0;
+}
+
+.shadetabs li a{
+text-decoration: none;
+padding: 4px 7px;
+margin-right: 0px;
+BORDER-RIGHT: #96beb8 1px solid; 
+BORDER-TOP: #96beb8 1px solid;
+BORDER-LEFT: #96beb8 1px solid; 
+BORDER-BOTTOM: #96beb8 0px solid;
+color: #2d2b2b;
+background: white url(shade.gif) top left repeat-x;
+}
+
+.shadetabs li a:visited{
+color: #2d2b2b;
+}
+
+.shadetabs li a:hover{
+text-decoration: underline;
+color: #2d2b2b;
+}
+
+.shadetabs li.selected{
+position: relative;
+top: 0px;
+}
+
+.shadetabs li.selected a{ /*selected main tab style */
+background-image: url(shadeactive.gif);
+text-decoration: none;
+padding: 4px 7px;
+margin-right: 0px;
+BORDER-RIGHT: #96beb8 1px solid; 
+BORDER-TOP: #96beb8 1px solid;
+BORDER-LEFT: #96beb8 1px solid; 
+BORDER-BOTTOM: #ffffff 1px solid;
+color: #2d2b2b;
+}
+
+.shadetabs li.selected a:hover{ /*selected main tab style */
+text-decoration: none;
+}
+
+.contentstyle{
+border: 1px solid #96beb8;
+width: 700px;
+margin-bottom: 1em;
+margin-top: 1px;
+padding: 8px;
+}
+

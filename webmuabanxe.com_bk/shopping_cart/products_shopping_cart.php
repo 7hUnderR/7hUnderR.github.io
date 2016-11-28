@@ -1,0 +1,1 @@
+<? include("products_shopping_cart_$lg.php"); ?>

@@ -1,0 +1,35 @@
+	.text_login {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-decoration: none;
+	}
+	.text_login a:link{
+		text-decoration: none;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		font-style: normal;
+		color: #FFF;
+		text-decoration: none;
+	}
+	.text_login a:visited{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		font-style: normal;
+		color: #FFF;
+		text-decoration: none;
+	}
+	.text_login a:hover{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		font-style: normal;
+		color: #FFF;
+		text-decoration: underline;
+	}
+	.text_login a:active{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		font-style: normal;
+		color: #FFF;
+		text-decoration: none;
+	}

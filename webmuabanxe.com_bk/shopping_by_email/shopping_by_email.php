@@ -1,0 +1,1 @@
+<? include("shopping_by_email/shopping_by_email_$lg.php"); ?>

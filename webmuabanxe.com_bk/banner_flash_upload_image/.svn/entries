@@ -1,0 +1,69 @@
+8
+
+dir
+62
+http://source.jeroenwijering.com/svn/tags/imagerotator-3-14
+http://source.jeroenwijering.com/svn
+
+
+
+2008-01-14T14:36:28.369875Z
+61
+jeroen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+343ee797-4041-4178-8c7d-062b6b8ad9c2
+
+imagerotator.pdf
+file
+
+
+
+
+2008-01-14T20:07:03.000000Z
+69dfb3e1ec819b818b64cde72cae8b66
+2008-01-14T14:36:28.369875Z
+61
+jeroen
+
+imagerotator.swf
+file
+
+
+
+
+2008-01-14T20:07:03.000000Z
+bee2db6a78ff33963c4413bbf7716807
+2008-01-14T14:20:57.804621Z
+59
+jeroen
+has-props
+
+com
+dir
+
+imagerotator.fla
+file
+
+
+
+
+2008-01-14T20:07:03.000000Z
+6b2570f84e260b3fab2d61cbfe9344fc
+2008-01-07T16:15:31.905504Z
+43
+jeroen
+has-props
+

@@ -1,0 +1,3 @@
+var arrLeftAdver = [];
+		var arrBottomAdver = [['23','','http://www.phumyhung.com.vn/nhadat_detail.php?id=22','02-08-2006','02-08-2007','/images/intro/logo_01.gif','180','90'],['21','','http://www.phumyhung.com.vn/nhadat_detail.php?id=15','11-25-2005','11-25-2006','/images/intro/logo_01.gif','156','90'],['12','','','10-22-2005','10-22-2006','/images/intro/logo_01.gif','135','90'],['6','','http://www.phumyhung.com.vn/nhadat_detail.php?id=6','10-21-2005','11-21-2006','/images/intro/logo_01.gif','142','90'],['11','','http://www.phumyhung.com.vn/nhadat_detail.php?id=3','10-21-2005','11-21-2010','/images/intro/logo_01.gif','165','90'],['14','','','10-22-2005','10-22-2006','/files/adver/myvien.jpg','124','90']];
+		

@@ -1,0 +1,1 @@
+<? include("inc_page_all_index_$lg.php"); ?>

@@ -1,0 +1,1339 @@
+/* CSS cho ca admin */
+	.Text_22_1 {
+		FONT-SIZE: 22px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_1 a:link{
+		FONT-SIZE: 22px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_1 a:visited{
+	    FONT-SIZE: 22px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_1 a:hover{
+	    FONT-SIZE: 22px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_1 a:active{
+		FONT-SIZE: 22px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_22_2 {
+		FONT-SIZE: 22px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_2 a:link{
+		FONT-SIZE: 22px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_2 a:visited{
+	    FONT-SIZE: 22px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_2 a:hover{
+	    FONT-SIZE: 22px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_2 a:active{
+		FONT-SIZE: 22px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_22_3 {
+		FONT-SIZE: 22px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_3 a:link{
+		FONT-SIZE: 22px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_3 a:visited{
+	    FONT-SIZE: 22px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_3 a:hover{
+	    FONT-SIZE: 22px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_3 a:active{
+		FONT-SIZE: 22px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	
+	.Text_22_4 {
+		FONT-SIZE: 22px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_4 a:link{
+		FONT-SIZE: 22px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_4 a:visited{
+	    FONT-SIZE: 22px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_4 a:hover{
+	    FONT-SIZE: 22px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_4 a:active{
+		FONT-SIZE: 22px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_22_5 {
+		FONT-SIZE: 22px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_5 a:link{
+		FONT-SIZE: 22px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_5 a:visited{
+	    FONT-SIZE: 22px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_5 a:hover{
+	    FONT-SIZE: 22px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_5 a:active{
+		FONT-SIZE: 22px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_22_6 {
+		FONT-SIZE: 22px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_6 a:link{
+		FONT-SIZE: 22px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_6 a:visited{
+	    FONT-SIZE: 22px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_6 a:hover{
+	    FONT-SIZE: 22px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_6 a:active{
+		FONT-SIZE: 22px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_22_7 {
+		FONT-SIZE: 22px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_7 a:link{
+		FONT-SIZE: 22px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_7 a:visited{
+	    FONT-SIZE: 22px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_22_7 a:hover{
+	    FONT-SIZE: 22px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_22_7 a:active{
+		FONT-SIZE: 22px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+/* 20 */
+
+	.Text_20_1 {
+		FONT-SIZE: 20px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_1 a:link{
+		FONT-SIZE: 20px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_1 a:visited{
+	    FONT-SIZE: 20px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_1 a:hover{
+	    FONT-SIZE: 20px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_1 a:active{
+		FONT-SIZE: 20px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_20_2 {
+		FONT-SIZE: 20px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_2 a:link{
+		FONT-SIZE: 20px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_2 a:visited{
+	    FONT-SIZE: 20px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_2 a:hover{
+	    FONT-SIZE: 20px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_2 a:active{
+		FONT-SIZE: 20px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_20_3 {
+		FONT-SIZE: 20px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_3 a:link{
+		FONT-SIZE: 20px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_3 a:visited{
+	    FONT-SIZE: 20px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_3 a:hover{
+	    FONT-SIZE: 20px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_3 a:active{
+		FONT-SIZE: 20px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	
+	.Text_20_4 {
+		FONT-SIZE: 20px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_4 a:link{
+		FONT-SIZE: 20px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_4 a:visited{
+	    FONT-SIZE: 20px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_4 a:hover{
+	    FONT-SIZE: 20px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_4 a:active{
+		FONT-SIZE: 20px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_20_5 {
+		FONT-SIZE: 20px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_5 a:link{
+		FONT-SIZE: 20px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_5 a:visited{
+	    FONT-SIZE: 20px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_5 a:hover{
+	    FONT-SIZE: 20px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_5 a:active{
+		FONT-SIZE: 20px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_20_6 {
+		FONT-SIZE: 20px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_6 a:link{
+		FONT-SIZE: 20px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_6 a:visited{
+	    FONT-SIZE: 20px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_6 a:hover{
+	    FONT-SIZE: 20px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_6 a:active{
+		FONT-SIZE: 20px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_20_7 {
+		FONT-SIZE: 20px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_7 a:link{
+		FONT-SIZE: 20px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_7 a:visited{
+	    FONT-SIZE: 20px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_20_7 a:hover{
+	    FONT-SIZE: 20px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_20_7 a:active{
+		FONT-SIZE: 20px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+/* 18 */
+
+	.Text_18_1 {
+		FONT-SIZE: 18px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_1 a:link{
+		FONT-SIZE: 18px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_1 a:visited{
+	    FONT-SIZE: 18px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_1 a:hover{
+	    FONT-SIZE: 18px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_1 a:active{
+		FONT-SIZE: 18px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_18_2 {
+		FONT-SIZE: 18px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_2 a:link{
+		FONT-SIZE: 18px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_2 a:visited{
+	    FONT-SIZE: 18px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_2 a:hover{
+	    FONT-SIZE: 18px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_2 a:active{
+		FONT-SIZE: 18px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_18_3 {
+		FONT-SIZE: 18px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_3 a:link{
+		FONT-SIZE: 18px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_3 a:visited{
+	    FONT-SIZE: 18px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_3 a:hover{
+	    FONT-SIZE: 18px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_3 a:active{
+		FONT-SIZE: 18px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	
+	.Text_18_4 {
+		FONT-SIZE: 18px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_4 a:link{
+		FONT-SIZE: 18px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_4 a:visited{
+	    FONT-SIZE: 18px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_4 a:hover{
+	    FONT-SIZE: 18px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_4 a:active{
+		FONT-SIZE: 18px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_18_5 {
+		FONT-SIZE: 18px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_5 a:link{
+		FONT-SIZE: 18px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_5 a:visited{
+	    FONT-SIZE: 18px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_5 a:hover{
+	    FONT-SIZE: 18px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_5 a:active{
+		FONT-SIZE: 18px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_18_6 {
+		FONT-SIZE: 18px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_6 a:link{
+		FONT-SIZE: 18px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_6 a:visited{
+	    FONT-SIZE: 18px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_6 a:hover{
+	    FONT-SIZE: 18px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_6 a:active{
+		FONT-SIZE: 18px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	.Text_18_7 {
+		FONT-SIZE: 18px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_7 a:link{
+		FONT-SIZE: 18px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_7 a:visited{
+	    FONT-SIZE: 18px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	.Text_18_7 a:hover{
+	    FONT-SIZE: 18px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+	}
+	.Text_18_7 a:active{
+		FONT-SIZE: 18px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	
+/* 16 */
+
+	.Text_16_1 {
+		FONT-SIZE: 16px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; 
+		text-decoration: none;
+	}
+	.Text_16_1 a:link{
+		FONT-SIZE: 16px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_1 a:visited{
+	    FONT-SIZE: 16px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_1 a:hover{
+	    FONT-SIZE: 16px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_1 a:active{
+		FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_16_2 {
+		FONT-SIZE: 16px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_2 a:link{
+		FONT-SIZE: 16px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_2 a:visited{
+	    FONT-SIZE: 16px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_2 a:hover{
+	    FONT-SIZE: 16px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_2 a:active{
+		FONT-SIZE: 16px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_16_3 {
+		FONT-SIZE: 16px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_3 a:link{
+		FONT-SIZE: 16px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_3 a:visited{
+	    FONT-SIZE: 16px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_3 a:hover{
+	    FONT-SIZE: 16px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_3 a:active{
+		FONT-SIZE: 16px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	
+	.Text_16_4 {
+		FONT-SIZE: 16px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_4 a:link{
+		FONT-SIZE: 16px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_4 a:visited{
+	    FONT-SIZE: 16px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_4 a:hover{
+	    FONT-SIZE: 16px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_4 a:active{
+		FONT-SIZE: 16px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_16_5 {
+		FONT-SIZE: 16px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_5 a:link{
+		FONT-SIZE: 16px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_5 a:visited{
+	    FONT-SIZE: 16px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_5 a:hover{
+	    FONT-SIZE: 16px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_5 a:active{
+		FONT-SIZE: 16px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_16_6 {
+		FONT-SIZE: 16px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_6 a:link{
+		FONT-SIZE: 16px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_6 a:visited{
+	    FONT-SIZE: 16px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_6 a:hover{
+	    FONT-SIZE: 16px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_6 a:active{
+		FONT-SIZE: 16px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_16_7 {
+		FONT-SIZE: 16px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_7 a:link{
+		FONT-SIZE: 16px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_7 a:visited{
+	    FONT-SIZE: 16px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_16_7 a:hover{
+	    FONT-SIZE: 16px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_16_7 a:active{
+		FONT-SIZE: 16px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	
+/* 14 */
+
+	.Text_14_1 {
+		FONT-SIZE: 14px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_1 a:link{
+		FONT-SIZE: 14px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_1 a:visited{
+	    FONT-SIZE: 14px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_1 a:hover{
+	    FONT-SIZE: 14px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_1 a:active{
+		FONT-SIZE: 14px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_14_2 {
+		FONT-SIZE: 14px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_2 a:link{
+		FONT-SIZE: 14px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_2 a:visited{
+	    FONT-SIZE: 14px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_2 a:hover{
+	    FONT-SIZE: 14px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_2 a:active{
+		FONT-SIZE: 14px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_14_3 {
+		FONT-SIZE: 14px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_3 a:link{
+		FONT-SIZE: 14px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_3 a:visited{
+	    FONT-SIZE: 14px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_3 a:hover{
+	    FONT-SIZE: 14px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_3 a:active{
+		FONT-SIZE: 14px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	
+	.Text_14_4 {
+		FONT-SIZE: 14px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_4 a:link{
+		FONT-SIZE: 14px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_4 a:visited{
+	    FONT-SIZE: 14px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_4 a:hover{
+	    FONT-SIZE: 14px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_4 a:active{
+		FONT-SIZE: 14px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_14_5 {
+		FONT-SIZE: 14px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_5 a:link{
+		FONT-SIZE: 14px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_5 a:visited{
+	    FONT-SIZE: 14px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_5 a:hover{
+	    FONT-SIZE: 14px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_5 a:active{
+		FONT-SIZE: 14px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_14_6 {
+		FONT-SIZE: 14px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_6 a:link{
+		FONT-SIZE: 14px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_6 a:visited{
+	    FONT-SIZE: 14px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_6 a:hover{
+	    FONT-SIZE: 14px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_6 a:active{
+		FONT-SIZE: 14px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_14_7 {
+		FONT-SIZE: 14px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_7 a:link{
+		FONT-SIZE: 14px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_7 a:visited{
+	    FONT-SIZE: 14px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_14_7 a:hover{
+	    FONT-SIZE: 14px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_14_7 a:active{
+		FONT-SIZE: 14px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	
+/* 12 */
+
+	.Text_12_1 {
+		FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_1 a:link{
+		FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_1 a:visited{
+	    FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_1 a:hover{
+	    FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_1 a:active{
+		FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_12_2 {
+		FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_2 a:link{
+		FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_2 a:visited{
+	    FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_2 a:hover{
+	    FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_2 a:active{
+		FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_12_3 {
+		FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_3 a:link{
+		FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_3 a:visited{
+	    FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_3 a:hover{
+	    FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_3 a:active{
+		FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	
+	.Text_12_4 {
+		FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_4 a:link{
+		FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_4 a:visited{
+	    FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_4 a:hover{
+	    FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_4 a:active{
+		FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_12_5 {
+		FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_5 a:link{
+		FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_5 a:visited{
+	    FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_5 a:hover{
+	    FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_5 a:active{
+		FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_12_6 {
+		FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_6 a:link{
+		FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_6 a:visited{
+	    FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_6 a:hover{
+	    FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_6 a:active{
+		FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+
+	.Text_12_7 {
+		FONT-SIZE: 12px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_7 a:link{
+		FONT-SIZE: 12px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_7 a:visited{
+	    FONT-SIZE: 12px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	.Text_12_7 a:hover{
+	    FONT-SIZE: 12px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: underline;
+	}
+	.Text_12_7 a:active{
+		FONT-SIZE: 12px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold;
+		text-decoration: none;
+	}
+	
+/* 12 t */
+
+	.Text_12_t_1 {
+		FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_1 a:link{
+		FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_1 a:visited{
+	    FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_1 a:hover{
+	    FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_1 a:active{
+		FONT-SIZE: 12px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_12_t_2 {
+		FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_2 a:link{
+		FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_2 a:visited{
+	    FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_2 a:hover{
+	    FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_2 a:active{
+		FONT-SIZE: 12px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_12_t_3 {
+		FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_3 a:link{
+		FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_3 a:visited{
+	    FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_3 a:hover{
+	    FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_3 a:active{
+		FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	
+	.Text_12_t_4 {
+		FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_4 a:link{
+		FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_4 a:visited{
+	    FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_4 a:hover{
+	    FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_4 a:active{
+		FONT-SIZE: 12px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_12_t_5 {
+		FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_5 a:link{
+		FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_5 a:visited{
+	    FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_5 a:hover{
+	    FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_5 a:active{
+		FONT-SIZE: 12px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_12_t_6 {
+		FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_6 a:link{
+		FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_6 a:visited{
+	    FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_6 a:hover{
+	    FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_6 a:active{
+		FONT-SIZE: 12px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_12_t_7 {
+		FONT-SIZE: 12px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_7 a:link{
+		FONT-SIZE: 12px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_7 a:visited{
+	    FONT-SIZE: 12px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_12_t_7 a:hover{
+	    FONT-SIZE: 12px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_12_t_7 a:active{
+		FONT-SIZE: 12px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	
+/* 11 t */
+
+	.Text_11_t_1 {
+		FONT-SIZE: 11px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_1 a:link{
+		FONT-SIZE: 11px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_1 a:visited{
+	    FONT-SIZE: 11px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_1 a:hover{
+	    FONT-SIZE: 11px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_1 a:active{
+		FONT-SIZE: 11px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_11_t_2 {
+		FONT-SIZE: 11px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_2 a:link{
+		FONT-SIZE: 11px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_2 a:visited{
+	    FONT-SIZE: 11px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_2 a:hover{
+	    FONT-SIZE: 11px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_2 a:active{
+		FONT-SIZE: 11px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_11_t_3 {
+		FONT-SIZE: 11px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_3 a:link{
+		FONT-SIZE: 11px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_3 a:visited{
+	    FONT-SIZE: 11px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_3 a:hover{
+	    FONT-SIZE: 11px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_3 a:active{
+		FONT-SIZE: 11px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	
+	.Text_11_t_4 {
+		FONT-SIZE: 11px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_4 a:link{
+		FONT-SIZE: 11px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_4 a:visited{
+	    FONT-SIZE: 11px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_4 a:hover{
+	    FONT-SIZE: 11px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_4 a:active{
+		FONT-SIZE: 11px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_11_t_5 {
+		FONT-SIZE: 11px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_5 a:link{
+		FONT-SIZE: 11px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_5 a:visited{
+	    FONT-SIZE: 11px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_5 a:hover{
+	    FONT-SIZE: 11px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_5 a:active{
+		FONT-SIZE: 11px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_11_t_6 {
+		FONT-SIZE: 11px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_6 a:link{
+		FONT-SIZE: 11px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_6 a:visited{
+	    FONT-SIZE: 11px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_6 a:hover{
+	    FONT-SIZE: 11px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_6 a:active{
+		FONT-SIZE: 11px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_11_t_7 {
+		FONT-SIZE: 11px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_7 a:link{
+		FONT-SIZE: 11px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_7 a:visited{
+	    FONT-SIZE: 11px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_11_t_7 a:hover{
+	    FONT-SIZE: 11px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_11_t_7 a:active{
+		FONT-SIZE: 11px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	
+/* 10 t */
+
+	.Text_10_t_1 {
+		FONT-SIZE: 10px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_1 a:link{
+		FONT-SIZE: 10px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_1 a:visited{
+	    FONT-SIZE: 10px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_1 a:hover{
+	    FONT-SIZE: 10px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_1 a:active{
+		FONT-SIZE: 10px; COLOR: #0099ff; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_10_t_2 {
+		FONT-SIZE: 10px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_2 a:link{
+		FONT-SIZE: 10px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_2 a:visited{
+	    FONT-SIZE: 10px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_2 a:hover{
+	    FONT-SIZE: 10px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_2 a:active{
+		FONT-SIZE: 10px; COLOR: #009900; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_10_t_3 {
+		FONT-SIZE: 10px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_3 a:link{
+		FONT-SIZE: 10px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_3 a:visited{
+	    FONT-SIZE: 10px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_3 a:hover{
+	    FONT-SIZE: 10px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_3 a:active{
+		FONT-SIZE: 10px; COLOR: #ff6600; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	
+	.Text_10_t_4 {
+		FONT-SIZE: 10px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_4 a:link{
+		FONT-SIZE: 10px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_4 a:visited{
+	    FONT-SIZE: 10px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_4 a:hover{
+	    FONT-SIZE: 10px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_4 a:active{
+		FONT-SIZE: 10px; COLOR: #ee0266; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_10_t_5 {
+		FONT-SIZE: 10px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_5 a:link{
+		FONT-SIZE: 10px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_5 a:visited{
+	    FONT-SIZE: 10px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_5 a:hover{
+	    FONT-SIZE: 10px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_5 a:active{
+		FONT-SIZE: 10px; COLOR: #cc0099; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_10_t_6 {
+		FONT-SIZE: 10px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_6 a:link{
+		FONT-SIZE: 10px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_6 a:visited{
+	    FONT-SIZE: 10px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_6 a:hover{
+	    FONT-SIZE: 10px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_6 a:active{
+		FONT-SIZE: 10px; COLOR: #ff3333; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+
+	.Text_10_t_7 {
+		FONT-SIZE: 10px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_7 a:link{
+		FONT-SIZE: 10px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_7 a:visited{
+	    FONT-SIZE: 10px; COLOR:  #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}
+	.Text_10_t_7 a:hover{
+	    FONT-SIZE: 10px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: underline;
+	}
+	.Text_10_t_7 a:active{
+		FONT-SIZE: 10px; COLOR: #003cec; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+		text-decoration: none;
+	}	

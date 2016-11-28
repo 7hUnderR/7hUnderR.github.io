@@ -1,0 +1,148 @@
+/*001EAA = violet, EE3338 = red , grey =777777
+*/
+body, table, p		{font-family: Tahoma; font-size: 11px; color: #424242;}
+
+BODY  { scrollbar-arrow-color: #ffffff; scrollbar-base-color: #77d5eb }
+#ctlImg {cursor:hand}
+INPUT 	{ font-family: Tahoma; font-size: 11px; color: #424242; text-decoration:none; }
+
+/*----------- Project -----------*/
+.ProjectGroupLinks a	{}
+.ProjectPageLinks a	{}
+/*-------------------------------*/
+IMG a:hover{border:0}
+
+/*Copyright*/
+.copyright         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #000000; text-decoration:none;}
+.copyright:hover   { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #1f72d9; text-decoration:underline;} 
+
+.copyright_link         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #c5ecfc; text-decoration:none;}
+.copyright_link:hover   { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #ffffff; text-decoration:none;} 
+
+.copyright_white         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #ffffff; text-decoration:none; }
+.copyright_white:hover         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #fff600; text-decoration:none; }
+
+.price_bold         { font-family: Tahoma; font-size: 9px; font-weight: bold; color: #ff4e00; text-decoration:none; }
+.price_bold:hover         { font-family: Tahoma; font-size: 9px; font-weight: bold; color: #ff6c00; text-decoration:underline; }
+
+.copyright_bold_white         { font-family: Tahoma; font-size: 9px; font-weight: bold; color: #ffffff; text-decoration:none; }
+.copyright_bold_white:hover         { font-family: Tahoma; font-size: 9px; font-weight: bold; color: #fff600; text-decoration:none; }
+
+.copyright_bold         { font-family: Tahoma; font-size: 9px; font-weight: bold; color: #064088; text-decoration:none;}
+.copyright_bold:hover   { font-family: Tahoma; font-size: 9px; font-weight: bold; color: #1f72d9; text-decoration:underline;} 
+
+/*Main*/
+.main         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #424242; text-decoration:none; }
+.main:hover         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #e32d51; text-decoration:underline; }
+
+.main_bold         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #424242; text-decoration:none; }
+.main_bold:hover         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #1b6ed6; text-decoration:none; }
+
+.main_bold_tieude         { font-family: Arial; font-size: 12px; font-weight: bold; color: #064088; text-decoration:none; }
+.main_bold_tieude:hover         { font-family: Arial; font-size: 12px; font-weight: bold; color: #1b6ed6; text-decoration:none; }
+
+.main_underline         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #424242; text-decoration:underline; }
+.main_underline:hover         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #1b6ed6; text-decoration:underline; }
+
+.main_tieude_sub         { font-family: Arial; font-size: 16px; font-weight: bold; color: #979797; text-decoration:none; }
+.main_tieude_sub:hover         { font-family: Arial; font-size: 16px; font-weight: bold; color: #ff6c00; text-decoration:underline; }
+
+.main_bold_underline         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #424242; text-decoration:underline; }
+.main_bold_underline:hover         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #1b6ed6; text-decoration:underline; }
+
+.menu_link         { font-family: arial; font-size: 12px; font-weight: normal; color: #ffffff; text-decoration:none; font-weight:bold; }
+.menu_link:hover   { font-family: arial; font-size: 12px; font-weight: normal; color: #fff600; text-decoration:none; font-weight:bold; } 
+
+.menu_top        { font-family: Arial; font-size: 11px; font-weight: bold; color: #ffffff; text-decoration:none; }
+.menu_top: a:hover       { font-family: Arial; font-size: 11px; font-weight: normal; color: #fff600; text-decoration:none; }
+
+/* left menu */
+.menu_left         { font-family: arial; font-size: 12px; font-weight: normal; color: #0e5a9f; text-decoration:none; }
+.menu_left:hover   { font-family: arial; font-size: 12px; font-weight: normal; color: #000000; text-decoration:none; } 
+
+
+/*Top News*/
+.top_news         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #fff600; text-decoration:none; }
+.top_news:hover         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #00eaff; text-decoration:underline; }
+
+.login_name         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #fff600; text-decoration:none; }
+.login_name:hover         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #00eaff; text-decoration:underline; }
+
+/*Date*/
+.date         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #909090; text-decoration:none; }
+.date:hover         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #636363; text-decoration:underline; }
+
+/*Left Button San Pham*/
+.left_button_sp         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #064088; text-decoration:none; }
+.left_button_sp:hover         { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #1b6ed6; text-decoration:underline; }
+
+/*Button San Pham*/
+.button_sp_bold         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #064088; text-decoration:none; }
+.button_sp_bold:hover         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #1b6ed6; text-decoration:none; }
+
+.button_sp_small_linke         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #ffffff; text-decoration:none; }
+.button_sp_small_linke:hover         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #fff600; text-decoration:none; }
+
+/*Hot News*/
+.hotnews_tieude         { font-family: Tahoma; font-size: 18px; font-weight: bold; color: #1aacee; text-decoration:none; }
+.hotnews_tieude:hover         { font-family: Tahoma; font-size: 18px; font-weight: bold; color: #ff6c00; text-decoration:underline; }
+
+.hotnews_clock         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #868686; text-decoration:none; }
+.hotnews_clock:hover         { font-family: Tahoma; font-size: 9px; font-weight: normal; color: #868686; text-decoration:underline; }
+
+.hotnews_bold         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #527715; text-decoration:none; }
+.hotnews_bold:hover         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #679220; text-decoration:underline; }
+
+.news_tieude         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #ff4e00; text-decoration:none; }
+.news_tieude:hover         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #ff6c00; text-decoration:underline; }
+
+.news_detail_tieude         { font-family: Tahoma; font-size: 19px; font-weight: bold; color: #00000; text-decoration:none; }
+.news_detail_tieude:hover         { font-family: Tahoma; font-size: 19px; font-weight: bold; color: #ff6c00; text-decoration:underline; }
+
+/*Contact US*/
+.company_name         { font-family: Tahoma; font-size: 16px; font-weight: bold; color: #064088; text-decoration:none; }
+.company_name:hover         { font-family: Tahoma; font-size: 16px; font-weight: bold; color: #1b6ed6; text-decoration:underline; }
+
+.contact_bold         { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #ffffff; text-decoration:none; }
+.contact_bold:hover         { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #5599ff; text-decoration:underline; }
+
+.contact_link_bold         { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #ffffff; text-decoration:none; }
+.contact_link_bold:link         { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #5599ff; text-decoration:none; }
+
+
+
+.nut
+{
+    BACKGROUND: #e1fdfe;
+    BORDER-BOTTOM: #c2e4e5 1px solid;
+    BORDER-LEFT: #c2e4e5 1px solid;
+    BORDER-RIGHT: #c2e4e5 1px solid;
+    BORDER-TOP: #c2e4e5 1px solid;
+    COLOR: #000000;
+    CURSOR: cusor;
+    FONT-FAMILY: Tahoma,sans-serif;
+    FONT-SIZE: 11px;
+   }
+   
+.tips
+{
+    BACKGROUND: #e8f7ff
+    BORDER-BOTTOM: #89e0ff 1px solid;
+    BORDER-LEFT: #89e0ff 1px solid;
+    BORDER-RIGHT: #89e0ff 1px solid;
+    BORDER-TOP: #89e0ff 1px solid;   }
+   
+   /* Search */
+.search {
+	BORDER-RIGHT: #a1b2d5 1px solid; BORDER-TOP: #a1b2d5 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #a1b2d5 1px solid; WIDTH: 120px; COLOR: #a4a4a4; BORDER-BOTTOM: #a1b2d5 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #ffffff
+}
+
+/* Content */
+.content         { font-family: Arial; font-size: 12px; font-weight: normal; color: #86898b; text-decoration:none; }
+
+/* NEXT */
+.next_bold         { font-family: arial; font-size: 12px; font-weight: bold; color: #575757; text-decoration:none; }
+.next_bold:hover         { font-family: arial; font-size: 12px; font-weight: bold; color: #679220; text-decoration:underline; }
+
+.next        { font-family: arial; font-size: 12px; color: #575757; text-decoration:none; }
+.next         { font-family: arial; font-size: 12px; color: #679220; text-decoration:underline; }

@@ -1,0 +1,130 @@
+<? include("inc/banner.php")?>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <td width="15%" valign="top" class="bg_left"><? include("inc/menu.php")?></td>
+  <td width="85%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <!--DWLayoutTable-->
+              <tr class="M">
+                <td height="25" valign="middle" class="bg_title"><img src="images/home.gif" width="14" height="14" border="0"> <?=$menu_images?></td>
+             </tr>
+              <tr>
+                <td valign="top" class="bg_center">
+					<?
+					$cat="1";
+					if(isset($HTTP_GET_VARS["cat"])){
+						$cat = $HTTP_GET_VARS["cat"];
+					}
+					$bac="1";
+					if(isset($HTTP_GET_VARS["bac"])){
+						$bac = $HTTP_GET_VARS["bac"];
+					}
+					$alpha="All";
+					if(isset($HTTP_GET_VARS["alpha"])){
+						$alpha=$HTTP_GET_VARS["alpha"];
+					}
+					$start="0";
+					if(isset($HTTP_GET_VARS["start"])){
+						$start = $HTTP_GET_VARS["start"];
+					}
+						
+					 if($alpha=="All")
+						 $sort=" where ma_images=$cat ";
+					 else
+						 $sort=" where ma_images=$cat and ten_anh_ like '".$alpha."%' ";
+
+					 
+					$table="tb_images";
+					if($suid==1)
+					$query = "Select * FROM  $table $sort";
+					else
+					$query = "Select * FROM  $table $sort and user=$ma_user_admin";
+					$result = mysql_query($query);
+					$rs= mysql_fetch_array($result);
+					$num = mysql_num_rows($result);
+					$PHP_SELF="admin_view_images.php";
+					$page_count =30; 
+					$cut_off = 10; 
+
+					include("inc/phantrang.php");
+					$table="tb_images";
+					if($suid==1)
+					$query = "Select * FROM  $table $sort ORDER BY thu_tu DESC LIMIT $start, $page_count";
+					else
+					$query = "Select * FROM  $table $sort and user=$ma_user_admin ORDER BY thu_tu DESC LIMIT $start, $page_count";
+					$result = mysql_query($query);
+					$i=0;
+					$tam=0;
+					$path_sub=path_upload_mannager("images");
+					?>
+					<form name=messageList ENCTYPE="multipart/form-data" method=post action="admin_edit_save.php?save=sort_images">
+					  <? include("inc/inc_sort_images.php"); ?>
+					  <table id="datatable" class="tbldata" width="100%" cellpadding=2 cellspacing=0 border=0>
+									<!--DWLayoutTable-->
+									<thead>
+									  <tr>
+										<th width=3% height="23" align=center nowrap><input type="checkbox" id="selectallrows" name="toggleAll" title="Select all"></th>
+									  <th width="37%" id="senderheader"><?=$view_item_images?></th>
+									  <th width="25%" id="senderheader"><?=$view_item_description?></th>
+									  <th width="25%" id="senderheader"><?=$item_note?></th>
+									  <th width="10%" id="senderheader"><?=$main_tieu_de_thu_tu?></th>
+									  </tr>
+					    </thead>
+									<tbody>
+					    <input type="hidden" name="cat" value="<?=$cat?>">
+									<input type="hidden" name="alpha" value="<?=$alpha?>">
+									<input type="hidden" name="start" value="<?=$start?>">
+									<input type="hidden" name="lg" value="<?=$lg?>">
+									
+									<? 
+
+									 while($rs= mysql_fetch_array($result)) 
+									 {
+									 $tam++; 
+									 $ma_images=$rs["ma_images"];
+									 $id=$rs["id"];
+									 ?>
+									<tr bgcolor='ffffff' onMouseOut=this.style.backgroundColor='#ffffff'; onmouseover=this.style.backgroundColor='#EAEAEA';>
+									  <td height="24" align=center valign=middle><input id="1" type="checkbox" name="Mid" value="<?=$id?>" ></td>
+									  <td><? if($rs["ten_anh"]!="") {echo"<a onclick=\"javascript: popupImage('../$path_sub/$rs[ten_anh]')\" href=\"#\"><img src=\"../$path_sub/$rs[ten_anh]\" width=\"50\" height=\"50\" border=0 align=\"absmiddle\"></a>";}?>
+								      <? echo "$rs[ten_anh_]"; ?></td>
+									  <td class="lot"><? 
+									  echo "$rs[ngay] ";
+									  echo "<br>".fsize("../$path_sub/$rs[ten_anh]");
+									  ?></td>
+									  <td><? echo "$rs[ghi_chu] <br>"; 
+									  $nguoi_dang = gia_tri_mot_cot("tb_admin","ma_user",$rs["user"],"user");
+									  echo "Poster: ".$nguoi_dang;?></td>
+									  <td><input type="hidden" name="id_<?=$tam?>" value="<?=$rs["id"]?>" />
+										<input name="thu_tu_<?=$tam?>" class="input" type="text"  size="2" value="<?=$rs["thu_tu"]?>" onkeydown="AcceptNumbersOnly();" /></td>
+					    </tr>
+									<? } ?>
+					  </table>
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" background="images/bg_icon.gif">
+										  <tr>
+											<td width="65%" height="30" align="left" valign="middle" class="tab_lr_5">
+											<? 
+											include("inc/inc_select.php"); 
+											?>
+											<? pag_cat_sort($page_count,$num,$start,$PHP_SELF,$cut_off,$cat,$alpha,$lg); ?>
+											</td>
+											<td width="35%" align="right" valign="middle" class="tab_lr_5">
+										    <input type="hidden" name="num" value="<?=$tam?>">
+											<input type="image" src="images/update.gif" name="Submit3" title="<?=$update_page?>" align="absmiddle">
+											<img src="images/reset.gif" onclick="messageList.reset();" style="cursor: pointer" alt="<?=$main_buttom_sort_reset?>" align="absmiddle"/>
+											<img src="images/delete.gif" onClick="delete_all_do('admin_delete_wait.php','?ma_del=images')" style="cursor: pointer" alt="<?=$view_item_buttom_xoa?>" align="absmiddle"/>
+											</td>
+										  </tr>
+										</table>
+										  <INPUT type=hidden value='' name="chon">
+				  </form>	</td>
+                          </tr>
+            </table>
+			</td>
+              </tr>
+                  </table>
+  <? ?></td>
+  </tr>
+</table>
+<? include("inc/bottom.php")?>
